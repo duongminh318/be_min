@@ -1,0 +1,54 @@
+﻿Bài 1: Tạo một struct tên là Student với các thuộc tính:
+	Name (tên sinh viên, kiểu string)
+	Age (tuổi, kiểu int)
+	GPA (điểm trung bình, kiểu double)
+Viết chương trình:
+	- Nhập thông tin cho n sinh viên (n được nhập từ bàn phím).
+	- Hiển thị danh sách sinh viên với định dạng: "Name - Age - GPA".
+	- Tìm và hiển thị sinh viên có điểm GPA cao nhất.
+
+Bài 2: Tạo một struct tên là Point với hai thuộc tính X và Y (kiểu double).
+ - Viết một chương trình để khởi tạo một điểm và in ra tọa độ của điểm đó.
+ - Viết chương trình tính khoảng cách giữa hai điểm trong mặt phẳng 2D. Công thức tính khoảng cách (Xem ảnh Distance trong file đính kèm)
+
+Bài 3: Viết một phương thức để đảo ngược một chuỗi đầu vào. Sử dụng phương thức này để đảo ngược chuỗi được nhập từ bàn phím.
+Ví dụ:
+Input: "hello"
+Output: "olleh"
+
+Bài 4: Viết chương trình  để sắp xếp các phần tử mảng theo thứ tự giảm dần.
+Input:
+Nhập kích thước của mảng: 3
+Nhập 3 phần tử vào mảng:
+phần tử - 0 : 5
+Phần tử - 1 : 9
+phần tử - 3 : 1
+
+Output:
+Các phần tử của mảng được sắp xếp giảm dần:
+9 5 1
+
+Bài 5: Viết chương trình để tìm phần tử lớn thứ hai trong một mảng.
+
+input:
+
+Nhập kích thước của mảng: 5
+
+Nhập 5 phần tử vào mảng:
+
+phần tử - 0 : 2
+
+phần tử - 1 : 9
+
+phần tử - 2 : 1
+
+phần tử - 3 : 4
+
+phần tử - 4 : 6
+
+Output:
+
+Phần tử lớn thứ hai trong mảng là: 6
+
+
+
