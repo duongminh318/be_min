@@ -1,0 +1,15 @@
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\SimpleApp\obj\Debug\net8.0\SimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\SimpleApp\obj\Debug\net8.0\SimpleApp.AssemblyInfoInputs.cache
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\SimpleApp\obj\Debug\net8.0\SimpleApp.AssemblyInfo.cs
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\SimpleApp\obj\Debug\net8.0\SimpleApp.csproj.CoreCompileInputs.cache
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\SimpleApp\obj\Debug\net8.0\SimpleApp.sourcelink.json
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\SimpleApp\bin\Debug\net8.0\SimpleApp.exe
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\SimpleApp\bin\Debug\net8.0\SimpleApp.deps.json
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\SimpleApp\bin\Debug\net8.0\SimpleApp.runtimeconfig.json
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\SimpleApp\bin\Debug\net8.0\SimpleApp.dll
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\SimpleApp\bin\Debug\net8.0\SimpleApp.pdb
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\SimpleApp\obj\Debug\net8.0\SimpleApp.dll
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\SimpleApp\obj\Debug\net8.0\refint\SimpleApp.dll
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\SimpleApp\obj\Debug\net8.0\SimpleApp.pdb
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\SimpleApp\obj\Debug\net8.0\SimpleApp.genruntimeconfig.cache
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\SimpleApp\obj\Debug\net8.0\ref\SimpleApp.dll

@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Lession4.Lecture1</StartupObject>
+    <StartupObject>SimpleApp.Calculator</StartupObject>
   </PropertyGroup>
 
 </Project>
