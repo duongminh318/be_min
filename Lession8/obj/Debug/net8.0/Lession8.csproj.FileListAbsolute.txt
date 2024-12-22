@@ -1,0 +1,15 @@
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\Lession8\bin\Debug\net8.0\Lession8.exe
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\Lession8\bin\Debug\net8.0\Lession8.deps.json
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\Lession8\bin\Debug\net8.0\Lession8.runtimeconfig.json
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\Lession8\bin\Debug\net8.0\Lession8.dll
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\Lession8\bin\Debug\net8.0\Lession8.pdb
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\Lession8\obj\Debug\net8.0\Lession8.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\Lession8\obj\Debug\net8.0\Lession8.AssemblyInfoInputs.cache
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\Lession8\obj\Debug\net8.0\Lession8.AssemblyInfo.cs
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\Lession8\obj\Debug\net8.0\Lession8.csproj.CoreCompileInputs.cache
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\Lession8\obj\Debug\net8.0\Lession8.sourcelink.json
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\Lession8\obj\Debug\net8.0\Lession8.dll
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\Lession8\obj\Debug\net8.0\refint\Lession8.dll
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\Lession8\obj\Debug\net8.0\Lession8.pdb
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\Lession8\obj\Debug\net8.0\Lession8.genruntimeconfig.cache
+D:\LEARNING\CODE\C_Sharp\ASP\CORE\T3H\thay_sy\be_min\Lession8\obj\Debug\net8.0\ref\Lession8.dll
