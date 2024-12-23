@@ -365,3 +365,7 @@ FodyWeavers.xsd
 # Bỏ qua các tệp build output
 bin/
 obj/
+
+# Bỏ qua các file DLL và PDB nếu xuất hiện ở nơi khác
+*.dll
+*.pdb
