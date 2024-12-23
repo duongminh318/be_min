@@ -76,7 +76,7 @@ void RunEX3()
 }
 
 // Chạy bài tập tùy chọn
-Console.WriteLine("Chọn bài tập để chạy (1, 2, 3):");
+Console.WriteLine("Mời thím chọn bài tập để chạy (1, 2, 3):");
 int choice = int.Parse(Console.ReadLine());
 
 switch (choice)
