@@ -15,13 +15,18 @@ namespace LearnOOP2.Ex1
 
 			var studentA = new Student("std", "A", 10, 1);
 			var studentB = new Student("std", "B", 11, 2);
+
 			var engCourse = new Course("english");
+
 			engCourse.AddTeacher(tearcherA);
 			engCourse.EnrollStudent(studentA);
 			engCourse.EnrollStudent(studentB);
 
+            Console.WriteLine("Teachers:...");
 			tearcherA.DisplayTeacherInfo();
+            Console.WriteLine("Course: ....");
+            engCourse.DisplayCourseInfo();
 
-		}
+        }
 	}
 }

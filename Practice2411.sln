@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleApp", "SimpleApp\Simp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson9", "Lesson9", "{AE637142-2781-42BA-A174-DA566C8A7109}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXOOP", "Lesson9\EXOOP\EXOOP.csproj", "{68B1EFD4-4DC9-4CBC-B4FC-C1F74981EE7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EXOOP", "Lesson9\EXOOP\EXOOP.csproj", "{68B1EFD4-4DC9-4CBC-B4FC-C1F74981EE7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession9", "Lesson9\Lession9\Lession9.csproj", "{CE38CE33-B21E-42B8-A3B0-5DD9E7F470C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,12 +61,17 @@ Global
 		{68B1EFD4-4DC9-4CBC-B4FC-C1F74981EE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68B1EFD4-4DC9-4CBC-B4FC-C1F74981EE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68B1EFD4-4DC9-4CBC-B4FC-C1F74981EE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE38CE33-B21E-42B8-A3B0-5DD9E7F470C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE38CE33-B21E-42B8-A3B0-5DD9E7F470C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE38CE33-B21E-42B8-A3B0-5DD9E7F470C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE38CE33-B21E-42B8-A3B0-5DD9E7F470C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{68B1EFD4-4DC9-4CBC-B4FC-C1F74981EE7B} = {AE637142-2781-42BA-A174-DA566C8A7109}
+		{CE38CE33-B21E-42B8-A3B0-5DD9E7F470C7} = {AE637142-2781-42BA-A174-DA566C8A7109}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {80E65E89-0885-4733-9D48-9CD6D63243C9}
