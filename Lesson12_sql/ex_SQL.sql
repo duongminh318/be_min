@@ -69,3 +69,22 @@ SELECT
     d.DepartmentName
 FROM Students s
 INNER JOIN Departments d ON s.DepartmentID = d.DepartmentID;
+
+--3 CRUD
+INSERT INTO Departments (DepartmentName)
+VALUES ('Chemistry');
+
+DELETE FROM Departments
+WHERE DepartmentName = 'Mathematics';
+
+UPDATE Students
+SET LastName = 'Phan', FirstName = 'An'
+WHERE FirstName = 'Anh';
+
+DELETE FROM Students
+WHERE LastName = 'Tran';
+
+select *from Departments
+
+--xóa hoàn toàn cơ sở dữ liệu QLSV
+--DROP DATABASE QLSV;
