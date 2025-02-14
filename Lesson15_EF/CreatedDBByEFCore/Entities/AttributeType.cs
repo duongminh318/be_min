@@ -10,12 +10,12 @@ namespace CreateDatabaseByEFCore.Entities
 {
     public class AttributeType : EntityBase
     {
-        [MaxLength(100)]
         [Required]
-        public string Name { get; set; }
+        [MaxLength(50)]
+        public string Name { get; set; } = string.Empty;
 
         #region Relationship
-        public ICollection<Attribute> Attributes { get; set; }
+        public ICollection<Attribute> Attributes { get; set; } = new List<Attribute>();
 
         #endregion
     }

@@ -10,12 +10,18 @@ namespace CreateDatabaseByEFCore.Entities
 {
     public class Attribute : EntityBase
     {
-        [MaxLength(100)]
+        
         [Required]
-        public string Name { get; set; }
+        public Guid AttributeTypeId { get; set; }  // Khóa ngoại
 
-        // Liên kết với bảng AtrributeType (C1)
-        public Guid AttributeTypeId { get; set; }
-        public AttributeType AttributeType { get; set; }
+        [Required]
+        [MaxLength(50)]
+        public string AttributeValue { get; set; } = string.Empty;
+
+        // Navigation Property
+        public AttributeType? AttributeType { get; set; }
+
+        // Liên kết với VariantAttributes
+        public ICollection<VariantAttribute> VariantAttributes { get; set; } = new List<VariantAttribute>();
     }
 }

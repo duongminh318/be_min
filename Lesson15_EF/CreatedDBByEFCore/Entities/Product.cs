@@ -5,10 +5,17 @@ namespace CreateDatabaseByEFCore.Entities;
 
 public class Product : EntityBase
 {
-    [MaxLength(100)]
     [Required]
-    public string Name { get; set; }
-    [MaxLength(1000)]
+    [MaxLength(100)]
+    public string Name { get; set; } = string.Empty;
+
+    [MaxLength(500)]
     public string? Description { get; set; }
+
+    [Required]
+    [Range(0, double.MaxValue, ErrorMessage = "BasePrice must be a positive number")]
     public decimal BasePrice { get; set; }
+
+    // Liên kết với Variant
+    public ICollection<Variant> Variants { get; set; } = new List<Variant>();
 }
