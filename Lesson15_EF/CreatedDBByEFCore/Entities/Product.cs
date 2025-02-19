@@ -1,7 +1,7 @@
 ﻿using CreatedDBByEFCore.Entities;
 using System.ComponentModel.DataAnnotations;
 
-namespace CreateDatabaseByEFCore.Entities;
+namespace CreatedDBByEFCore.Entities;
 
 public class Product : EntityBase
 {

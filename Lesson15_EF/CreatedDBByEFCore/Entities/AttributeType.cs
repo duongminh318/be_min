@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CreateDatabaseByEFCore.Entities
+namespace CreatedDBByEFCore.Entities
 {
     public class AttributeType : EntityBase
     {

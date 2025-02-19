@@ -1,5 +1,5 @@
 ﻿
-using CreateDatabaseByEFCore.Entities;
+using CreatedDBByEFCore.Entities;
 using CreatedDBByEFCore.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -7,9 +7,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Attribute = CreateDatabaseByEFCore.Entities.Attribute;
+using Attribute = CreatedDBByEFCore.Entities.Attribute;
 
-namespace CreateDatabaseByEFCore
+namespace CreatedDBByEFCore
 {
     public class EcommerceDbContext : DbContext
     {

@@ -13,6 +13,6 @@ namespace CreatedDBByEFCore.Entities
 
         // Navigation Properties
         public Variant? Variant { get; set; }
-        public CreateDatabaseByEFCore.Entities.Attribute? Attribute { get; set; } // Chỉ rõ namespace
+        public CreatedDBByEFCore.Entities.Attribute? Attribute { get; set; } // Chỉ rõ namespace
     }
 }
