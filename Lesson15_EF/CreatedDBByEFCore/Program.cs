@@ -1,8 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using CreatedDBByEFCore;
 using Microsoft.EntityFrameworkCore;
+using System.Text;
 
-Console.WriteLine("Seeding Data Loading___");
+/*Console.WriteLine("Seeding Data Loading___");
 
 try
 {
@@ -25,4 +26,9 @@ catch (Exception ex)
 
     // In thêm stack trace để dễ dàng debug khi gặp lỗi
     Console.WriteLine($"Stack Trace: {ex.StackTrace}");
-}
+}*/
+
+
+// Truy vấn dữ liệu sử dụng Linq
+Console.OutputEncoding = Encoding.UTF8;
+DBQuery.FilterDatabase();
